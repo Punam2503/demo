@@ -1,0 +1,7 @@
+Browser   Chrome
+
+url       https://kusumoffice.mahadiscom.in/solar/
+
+Username  ho@mahadiscom.in
+
+password  Discom@123
